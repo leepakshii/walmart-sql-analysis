@@ -41,5 +41,3 @@ The analysis focuses on:
 ## 👩‍💻 Submitted By
 
 **Leepakshi Patankar**  
-Career Goal: Data Analyst  
-Submitted for: Labmentix Internship Application
